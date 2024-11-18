@@ -12,8 +12,7 @@
    npm start
 
 
-3.client
-   ```bash
+3.client:  
    cd client
    npm install
    npm start
